@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BashFrontend</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">tMXiiAQi6aAZwU8KTHGnwq1_58L_8EgqjJcFa</string>
+</resources>
+ 
